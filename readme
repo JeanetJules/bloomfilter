@@ -1,1 +1,2 @@
-right now this doesn't do anything, hopefully it will january 23rd
+To launch the file : type clear && make clean && make
+then type : ./BFandFriends NAMEFILE KMER_SIZE BLOOMFILTER_SIZE TIMES_HASH REQUESTS
